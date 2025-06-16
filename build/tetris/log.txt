@@ -1,0 +1,229 @@
+INFO  2025-05-17T07:24:32.449 /home/asus/Desktop/Tetris/tetris/main.cpp : 95 || 服务器IP地址 =  QHostAddress("127.0.0.1") 
+INFO  2025-05-17T07:24:32.449 /home/asus/Desktop/Tetris/tetris/main.cpp : 96 || 服务器端口 =  10000 
+INFO  2025-05-17T07:24:32.449 /home/asus/Desktop/Tetris/tetris/main.cpp : 97 || 客户端密钥 =  1122867 
+TRACE 2025-05-17T07:24:32.482 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 29 || bind succeed on port: 35597 
+TRACE 2025-05-17T07:24:32.797 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 152 || Receive connect  
+DEBUG 2025-05-17T07:24:43.685 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 392 || i= 80 
+DEBUG 2025-05-17T07:24:43.685 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 393 || error= 0 
+TRACE 2025-05-17T07:24:44.029 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 162 || Receive signup  
+TRACE 2025-05-17T07:24:46.829 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 185 || Receive login  
+TRACE 2025-05-17T07:24:54.830 /home/asus/Desktop/Tetris/tetris/game.cpp : 523 || bind succeed on port: 45865 
+TRACE 2025-05-17T07:24:54.963 /home/asus/Desktop/Tetris/tetris/game.cpp : 682 || Instruction = kRandomSeed kRandomSeed =  -1164522917 
+TRACE 2025-05-17T07:24:54.963 /home/asus/Desktop/Tetris/tetris/game.cpp : 686 || Instruction = kReadyToStart playerNumber =  0 
+TRACE 2025-05-17T07:25:04.226 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:04.576 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:04.966 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:05.225 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:06.756 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-05-17T07:25:07.556 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:07.656 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-05-17T07:25:07.656 /home/asus/Desktop/Tetris/tetris/game.cpp : 203 || 1 QPoint(0,0) 
+TRACE 2025-05-17T07:25:08.106 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-05-17T07:25:08.106 /home/asus/Desktop/Tetris/tetris/game.cpp : 203 || 2 QPoint(0,0) 
+TRACE 2025-05-17T07:25:08.606 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-05-17T07:25:08.606 /home/asus/Desktop/Tetris/tetris/game.cpp : 203 || 3 QPoint(0,0) 
+TRACE 2025-05-17T07:25:09.027 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:09.586 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:10.216 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:13.666 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:14.476 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:14.636 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:15.935 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:16.456 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-05-17T07:25:16.546 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:16.735 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:16.955 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:17.446 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-05-17T07:25:17.446 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 1 QPoint(0,0) 
+TRACE 2025-05-17T07:25:18.145 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-05-17T07:25:18.145 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 2 QPoint(0,0) 
+TRACE 2025-05-17T07:25:20.435 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-05-17T07:25:22.085 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:22.245 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:22.396 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:22.506 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:25.346 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:25.906 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-05-17T07:25:26.996 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-05-17T07:25:26.996 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 1 QPoint(0,0) 
+TRACE 2025-05-17T07:25:27.225 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:27.456 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:27.686 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:27.836 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:28.005 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:28.216 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:31.606 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-05-17T07:25:37.296 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-05-17T07:25:37.296 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 1 QPoint(0,0) 
+TRACE 2025-05-17T07:25:37.706 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:37.915 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:38.056 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:38.656 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-05-17T07:25:39.206 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-05-17T07:25:39.206 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 2 QPoint(0,0) 
+TRACE 2025-05-17T07:25:39.615 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:40.046 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-05-17T07:25:40.046 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 3 QPoint(0,0) 
+TRACE 2025-05-17T07:25:40.196 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:40.396 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:25:40.645 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-05-17T07:25:40.645 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 0 QPoint(0,0) 
+DEBUG 2025-05-17T07:25:42.971 /home/asus/Desktop/Tetris/tetris/gamewindow.cpp : 382 || send game over 
+DEBUG 2025-05-17T07:25:42.971 /home/asus/Desktop/Tetris/tetris/gamewindow.cpp : 41 || ~GameWindow Called 
+INFO  2025-05-17T07:26:49.618 /home/asus/Desktop/Tetris/tetris/main.cpp : 95 || 服务器IP地址 =  QHostAddress("127.0.0.1") 
+INFO  2025-05-17T07:26:49.619 /home/asus/Desktop/Tetris/tetris/main.cpp : 96 || 服务器端口 =  10000 
+INFO  2025-05-17T07:26:49.619 /home/asus/Desktop/Tetris/tetris/main.cpp : 97 || 客户端密钥 =  1122867 
+TRACE 2025-05-17T07:26:49.654 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 29 || bind succeed on port: 44394 
+TRACE 2025-05-17T07:26:49.939 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 152 || Receive connect  
+TRACE 2025-05-17T07:26:54.929 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 185 || Receive login  
+TRACE 2025-05-17T07:26:59.329 /home/asus/Desktop/Tetris/tetris/game.cpp : 523 || bind succeed on port: 60652 
+TRACE 2025-05-17T07:26:59.461 /home/asus/Desktop/Tetris/tetris/game.cpp : 682 || Instruction = kRandomSeed kRandomSeed =  -54415019 
+TRACE 2025-05-17T07:26:59.461 /home/asus/Desktop/Tetris/tetris/game.cpp : 686 || Instruction = kReadyToStart playerNumber =  0 
+DEBUG 2025-05-17T07:27:05.137 /home/asus/Desktop/Tetris/tetris/gamewindow.cpp : 382 || send game over 
+DEBUG 2025-05-17T07:27:05.137 /home/asus/Desktop/Tetris/tetris/gamewindow.cpp : 41 || ~GameWindow Called 
+INFO  2025-05-17T07:27:06.720 /home/asus/Desktop/Tetris/tetris/main.cpp : 95 || 服务器IP地址 =  QHostAddress("127.0.0.1") 
+INFO  2025-05-17T07:27:06.721 /home/asus/Desktop/Tetris/tetris/main.cpp : 96 || 服务器端口 =  10000 
+INFO  2025-05-17T07:27:06.721 /home/asus/Desktop/Tetris/tetris/main.cpp : 97 || 客户端密钥 =  1122867 
+TRACE 2025-05-17T07:27:06.754 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 29 || bind succeed on port: 38436 
+TRACE 2025-05-17T07:27:07.040 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 152 || Receive connect  
+TRACE 2025-05-17T07:27:10.629 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 185 || Receive login  
+TRACE 2025-05-17T07:27:14.730 /home/asus/Desktop/Tetris/tetris/game.cpp : 523 || bind succeed on port: 51819 
+TRACE 2025-05-17T07:27:14.858 /home/asus/Desktop/Tetris/tetris/game.cpp : 682 || Instruction = kRandomSeed kRandomSeed =  -1686167468 
+TRACE 2025-05-17T07:27:14.858 /home/asus/Desktop/Tetris/tetris/game.cpp : 686 || Instruction = kReadyToStart playerNumber =  0 
+TRACE 2025-05-17T07:27:19.370 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-05-17T07:27:20.319 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-05-17T07:27:20.670 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-05-17T07:27:21.109 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-05-17T07:27:21.359 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-05-17T07:27:21.549 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+DEBUG 2025-05-17T07:27:23.849 /home/asus/Desktop/Tetris/tetris/gamewindow.cpp : 382 || send game over 
+DEBUG 2025-05-17T07:27:23.850 /home/asus/Desktop/Tetris/tetris/gamewindow.cpp : 41 || ~GameWindow Called 
+INFO  2025-06-14T21:06:57.162 /home/asus/Desktop/Tetris/tetris/main.cpp : 95 || 服务器IP地址 =  QHostAddress("127.0.0.1") 
+INFO  2025-06-14T21:06:57.162 /home/asus/Desktop/Tetris/tetris/main.cpp : 96 || 服务器端口 =  10000 
+INFO  2025-06-14T21:06:57.162 /home/asus/Desktop/Tetris/tetris/main.cpp : 97 || 客户端密钥 =  1122867 
+TRACE 2025-06-14T21:06:57.226 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 29 || bind succeed on port: 60123 
+TRACE 2025-06-14T21:06:57.541 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 152 || Receive connect  
+TRACE 2025-06-14T21:07:01.169 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 185 || Receive login  
+DEBUG 2025-06-14T21:07:11.525 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 392 || i= 80 
+DEBUG 2025-06-14T21:07:11.526 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 393 || error= 0 
+TRACE 2025-06-14T21:07:11.769 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 162 || Receive signup  
+TRACE 2025-06-14T21:07:13.168 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 185 || Receive login  
+TRACE 2025-06-14T21:07:14.668 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 185 || Receive login  
+DEBUG 2025-06-14T21:14:03.168 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 392 || i= 80 
+DEBUG 2025-06-14T21:14:03.168 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 393 || error= 0 
+TRACE 2025-06-14T21:14:03.368 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 162 || Receive signup  
+TRACE 2025-06-14T21:14:29.468 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 185 || Receive login  
+INFO  2025-06-14T21:14:39.935 /home/asus/Desktop/Tetris/tetris/main.cpp : 95 || 服务器IP地址 =  QHostAddress("127.0.0.1") 
+INFO  2025-06-14T21:14:39.935 /home/asus/Desktop/Tetris/tetris/main.cpp : 96 || 服务器端口 =  10000 
+INFO  2025-06-14T21:14:39.935 /home/asus/Desktop/Tetris/tetris/main.cpp : 97 || 客户端密钥 =  1122867 
+TRACE 2025-06-14T21:14:39.978 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 29 || bind succeed on port: 52220 
+TRACE 2025-06-14T21:14:40.368 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 152 || Receive connect  
+DEBUG 2025-06-14T21:14:52.401 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 392 || i= 80 
+DEBUG 2025-06-14T21:14:52.401 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 393 || error= 0 
+TRACE 2025-06-14T21:14:52.668 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 162 || Receive signup  
+TRACE 2025-06-14T21:14:58.567 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 185 || Receive login  
+DEBUG 2025-06-14T21:17:44.305 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 545 || enter 
+TRACE 2025-06-14T21:17:44.568 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 238 || Receive message  
+TRACE 2025-06-14T21:17:44.667 /home/asus/Desktop/Tetris/tetris/mainwindow.cpp : 238 || Receive message  
+TRACE 2025-06-14T21:20:55.567 /home/asus/Desktop/Tetris/tetris/game.cpp : 523 || bind succeed on port: 57446 
+TRACE 2025-06-14T21:20:55.567 /home/asus/Desktop/Tetris/tetris/game.cpp : 523 || bind succeed on port: 39592 
+TRACE 2025-06-14T21:20:55.764 /home/asus/Desktop/Tetris/tetris/game.cpp : 682 || Instruction = kRandomSeed kRandomSeed =  1538569650 
+TRACE 2025-06-14T21:20:55.764 /home/asus/Desktop/Tetris/tetris/game.cpp : 682 || Instruction = kRandomSeed kRandomSeed =  -1854173571 
+TRACE 2025-06-14T21:20:55.764 /home/asus/Desktop/Tetris/tetris/game.cpp : 686 || Instruction = kReadyToStart playerNumber =  1 
+TRACE 2025-06-14T21:20:55.767 /home/asus/Desktop/Tetris/tetris/game.cpp : 682 || Instruction = kRandomSeed kRandomSeed =  1538569650 
+TRACE 2025-06-14T21:20:55.767 /home/asus/Desktop/Tetris/tetris/game.cpp : 682 || Instruction = kRandomSeed kRandomSeed =  -1854173571 
+TRACE 2025-06-14T21:20:55.767 /home/asus/Desktop/Tetris/tetris/game.cpp : 686 || Instruction = kReadyToStart playerNumber =  0 
+TRACE 2025-06-14T21:38:07.008 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  1 
+TRACE 2025-06-14T21:38:07.008 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 1 QPoint(0,0) 
+TRACE 2025-06-14T21:38:07.008 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  1 
+TRACE 2025-06-14T21:38:07.008 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  1 
+TRACE 2025-06-14T21:38:07.008 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  1 
+TRACE 2025-06-14T21:38:07.010 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  1 
+TRACE 2025-06-14T21:38:07.011 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 1 QPoint(0,0) 
+TRACE 2025-06-14T21:38:07.011 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  1 
+TRACE 2025-06-14T21:38:07.011 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  1 
+TRACE 2025-06-14T21:38:07.011 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  1 
+TRACE 2025-06-14T21:38:07.550 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:07.558 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:07.558 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  1 
+TRACE 2025-06-14T21:38:07.560 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  1 
+TRACE 2025-06-14T21:38:08.010 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:08.018 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:08.540 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:08.548 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:09.100 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:09.107 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:19.438 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  1 
+TRACE 2025-06-14T21:38:19.440 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  1 
+TRACE 2025-06-14T21:38:21.781 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:21.787 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:30.587 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  1 
+TRACE 2025-06-14T21:38:30.590 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  1 
+TRACE 2025-06-14T21:38:32.721 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:32.728 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:32.970 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:32.977 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.090 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:33.098 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:33.470 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.477 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.500 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.508 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.530 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.538 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.560 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.568 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.590 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.598 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.621 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.628 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.651 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.658 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.680 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.688 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.710 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.718 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.740 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:33.747 /home/asus/Desktop/Tetris/tetris/game.cpp : 691 || Instruction = kSwap playerNumber =  0 
+TRACE 2025-06-14T21:38:39.210 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-06-14T21:38:39.217 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-06-14T21:38:40.180 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:40.187 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:40.187 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  1 
+TRACE 2025-06-14T21:38:40.190 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  1 
+TRACE 2025-06-14T21:38:42.581 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:42.588 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:42.980 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-06-14T21:38:42.988 /home/asus/Desktop/Tetris/tetris/game.cpp : 635 || Instruction = kLeft =  0 
+TRACE 2025-06-14T21:38:43.390 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-06-14T21:38:43.397 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-06-14T21:38:45.080 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:45.088 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:46.110 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-06-14T21:38:46.110 /home/asus/Desktop/Tetris/tetris/game.cpp : 203 || 1 QPoint(0,0) 
+TRACE 2025-06-14T21:38:46.118 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-06-14T21:38:46.118 /home/asus/Desktop/Tetris/tetris/game.cpp : 203 || 1 QPoint(0,0) 
+TRACE 2025-06-14T21:38:48.180 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:48.187 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:48.187 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  1 
+TRACE 2025-06-14T21:38:48.190 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  1 
+TRACE 2025-06-14T21:38:48.981 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-06-14T21:38:48.981 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 1 QPoint(0,0) 
+TRACE 2025-06-14T21:38:48.987 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-06-14T21:38:48.987 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 1 QPoint(0,0) 
+TRACE 2025-06-14T21:38:49.681 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-06-14T21:38:49.687 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-06-14T21:38:50.580 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:50.588 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:50.761 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-06-14T21:38:50.767 /home/asus/Desktop/Tetris/tetris/game.cpp : 628 || Instruction = kRight =  0 
+TRACE 2025-06-14T21:38:51.110 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-06-14T21:38:51.110 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 1 QPoint(0,0) 
+TRACE 2025-06-14T21:38:51.118 /home/asus/Desktop/Tetris/tetris/game.cpp : 607 || Instruction = kClockwise =  0 
+TRACE 2025-06-14T21:38:51.118 /home/asus/Desktop/Tetris/tetris/game.cpp : 217 || 1 QPoint(0,0) 
+TRACE 2025-06-14T21:38:51.610 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:51.618 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:52.280 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:52.288 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:53.031 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 
+TRACE 2025-06-14T21:38:53.038 /home/asus/Desktop/Tetris/tetris/game.cpp : 644 || Instruction = kDrop =  0 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libqslog.a  CMakeFiles/qslog.dir/qslog_autogen/mocs_compilation.cpp.o CMakeFiles/qslog.dir/QsLog.cpp.o CMakeFiles/qslog.dir/QsLogDest.cpp.o CMakeFiles/qslog.dir/QsLogDestConsole.cpp.o CMakeFiles/qslog.dir/QsLogDestFile.cpp.o CMakeFiles/qslog.dir/QsLogDestFunctor.cpp.o
+/usr/bin/ranlib libqslog.a

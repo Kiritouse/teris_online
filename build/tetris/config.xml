@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config ServerIP="服务器IP地址" ServerPort="服务器端口" PrivateKey="客户端密钥">
+    <ServerIP>127.0.0.1</ServerIP>
+    <ServerPort>10000</ServerPort>
+    <PrivateKey>1122867</PrivateKey>
+</Config>

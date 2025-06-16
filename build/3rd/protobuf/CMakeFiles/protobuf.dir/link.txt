@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprotobuf.a  CMakeFiles/protobuf.dir/tetris.pb.cc.o
+/usr/bin/ranlib libprotobuf.a

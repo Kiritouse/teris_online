@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+2c0d6109a5acb2d0efaea2638598e2d8 ../3rd/protobuf/tetris.pb.cc
+3f1dadc26353cca27364d14f10c7adb4 3rd/qslog/CMakeFiles/qslog_autogen
+7220dbee23c283411bb6a2a54ca5e988 3rd/simplecrypt/CMakeFiles/simplecrypt_autogen
+57dcc1772e0d95e3db4c254e08dce234 server/CMakeFiles/server_autogen
+22b5f4bdb0f5ada537d77e7b39d29268 tetris/CMakeFiles/big_resources_res
+e98e264b4207f46da4cb9dbb719c0f0a tetris/CMakeFiles/tetris_autogen
+24517d25baebc75ff5bab03d53baa4a0 tetris/qrc_res.o
+97d065e1b0bf924f07cc143c9102d18c tetris/qrc_restmp.cpp
