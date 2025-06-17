@@ -1,6 +1,3 @@
-//
-// Created by 666 on 2021/4/8.
-//
 
 #include <QNetworkDatagram>
 #include <QDateTime>

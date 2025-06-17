@@ -1,6 +1,4 @@
-//
-// Created by 666 on 2021/4/8.
-//
+
 
 #ifndef TETRIS_GAME_H
 #define TETRIS_GAME_H
