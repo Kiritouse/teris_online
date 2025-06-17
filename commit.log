@@ -1,59 +1,59 @@
 * commit Jun99a34328167c63b37d3597f8f690657624b9d
-| Author: zgd <2496305505@qq.com>
+| Author: Kiritouse <2496305505@qq.com>
 | Date:   Wed Jun 13 23:34:54 2025 +0800
 | 
 |     更新项目文档
 | 
 * commit fd5180b4dee6e7416e00242aca61ac02a6b22487
-| Author: zgd <2496305505@qq.com>
+| Author: Kiritouse <2496305505@qq.com>
 | Date:   Wed Jun 12 23:32:42 2025 +0800
 | 
 |     更新项目文档
 | 
 * commit d4d6a83bed10757cc7dffce3f9676e72390de360
-| Author: zgd <2496305505@qq.com>
+| Author: Kiritouse <2496305505@qq.com>
 | Date:   Wed Jun 11 23:28:43 2025 +0800
 | 
 |     更新聊天功能
 | 
 * commit 0c068be31055df38d3c104c454bae8a8953aefe0
-| Author: zgd <2496305505@qq.com>
+| Author: Kiritouse <2496305505@qq.com>
 | Date:   Wed Jun 10 23:22:45 2025 +0800
 | 
 |     修复聊天bug
 | 
 * commit 85d5da8ec2d59792d26e080434fced9e5c9b24c2
-| Author: zgd <2496305505@qq.com>
+| Author: Kiritouse <2496305505@qq.com>
 | Date:   Thu Jun 9 23:44:54 2025 +0800
 | 
 |     更新聊天功能
 | 
 * commit 740f08a71786d901512e74537a33ef4f88f9ea4a
-| Author: zgd <2496305505@qq.com>
+| Author: Kiritouse <2496305505@qq.com>
 | Date:   Wed Jun 8 23:04:26 2025 +0800
 | 
 |     添加代码行数日志
 | 
 * commit 62bf1ae46f418b4ef494065da52052cacfb14ae6
-| Author: zgd <2496305505@qq.com>
+| Author: Kiritouse <2496305505@qq.com>
 | Date:   Wed Jun 4 13:53:24 2025 +0800
 | 
 |     优化代码，解决2人模式bug
 | 
 * commit ad5e4af771cc8dbc2f199d995b8020c4d8c022b0
-| Author: zgd <2496305505@qq.com>
+| Author: Kiritouse <2496305505@qq.com>
 | Date:   Fri Jun 4 10:46:45 2025 +0800
 | 
 |     #添加部分注释，优化代码结构
 | 
 * commit 9978eff5e7c20a14f7a799b7892b15fe9ad0b369
-| Author: zgd <2496305505@qq.com>
+| Author: Kiritouse <2496305505@qq.com>
 | Date:   Tue Jun 2 15:38:01 2025 +0800
 | 
 |     增加msvc支持，解决程序乱码的问题，统一文件编码
 | 
 * commit b6cc585b916f21285bf102ede4259eefd28be80f
-| Author: zgd <2496305505@qq.com>
+| Author: Kiritouse <2496305505@qq.com>
 | Date:   Mon Jun 1 20:42:06 2025 +0800
 | 
 |     prime code
